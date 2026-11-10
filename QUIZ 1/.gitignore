@@ -1,0 +1,1 @@
+to ensure dependency folders,environment variables, and system files are not tracked by Git. This helps keep the repository clean and avoids committing sensitive information or unnecessary files.git clone https://github.com/IPTUmipigLabB/IPT101-Portfolio-IrishMaeUmipig
